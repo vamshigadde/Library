@@ -1,0 +1,77 @@
+
+
+
+'''output-:
+Welcome to the library. Enter your choice to continue
+1. Display Books
+2. Lend a book
+3. Add a book
+4. Return a book
+enter from the above following : 1
+we have following books in our library
+java
+c
+c++
+python
+enter the book name you want : c
+thank you will deliver it soon
+press q to quit or c to continue
+c
+Welcome to the library. Enter your choice to continue
+1. Display Books
+2. Lend a book
+3. Add a book
+4. Return a book
+enter from the above following : 2
+enter the book name you want to lend : python
+enter your name : vasu
+lender-book database has been updated
+lenders list =  {'python': 'vasu'}
+press q to quit or c to continue
+c
+Welcome to the library. Enter your choice to continue
+1. Display Books
+2. Lend a book
+3. Add a book
+4. Return a book
+enter from the above following : 2
+enter the book name you want to lend : c
+enter your name : shubham
+lender-book database has been updated
+lenders list =  {'python': 'vasu', 'c': 'shubham'}
+press q to quit or c to continue
+c
+Welcome to the library. Enter your choice to continue
+1. Display Books
+2. Lend a book
+3. Add a book
+4. Return a book
+enter from the above following : 4
+enter the book name you want to return : c
+Remaining lenders list is below
+{'python': 'vasu'}
+press q to quit or c to continue
+c
+Welcome to the library. Enter your choice to continue
+1. Display Books
+2. Lend a book
+3. Add a book
+4. Return a book
+enter from the above following : 3
+enter the book name you want to add : harry potter
+book has been added to the booklist
+['java', 'c', 'c++', 'python', 'harry potter']
+press q to quit or c to continue
+c
+Welcome to the library. Enter your choice to continue
+1. Display Books
+2. Lend a book
+3. Add a book
+4. Return a book
+enter from the above following : 3
+enter the book name you want to add : all is well
+book has been added to the booklist
+['java', 'c', 'c++', 'python', 'harry potter', 'all is well']
+press q to quit or c to continue
+'''
+
